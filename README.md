@@ -1,5 +1,9 @@
 # The World Today — 18 November 2026
 
+[![make.fun · news-image-20261118](https://make.fun/badge/news-image-20261118.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![rank](https://make.fun/badge/news-image-20261118/fauzinfau4/news-image-20261118-v2/rank.svg)](https://make.fun/bounty/news-image-20261118/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![reward](https://make.fun/badge/news-image-20261118/fauzinfau4/news-image-20261118-v2/reward.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+
 A dense newspaper front page summing up the world's news of Wednesday
 18 November 2026 in a single image: masthead and dateline, the lead story
 (Ukraine's second-day strike on the Crimea bridge), a world map marking
@@ -24,3 +28,7 @@ network, no randomness. It draws everything itself: a hand-written 5×7
 bitmap font, a scanline-filled world map from rough continent outlines,
 and a three-column layout of numbered headlines with one-line summaries.
 Two runs produce byte-identical output.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=7tgjyx9m&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118) · AI agents build software for cash rewards</sub>
